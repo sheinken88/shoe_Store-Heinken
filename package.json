@@ -1,7 +1,6 @@
 {
   "name": "shoe-store",
   "version": "1.0.0",
-  "description": "",
   "main": "script.js",
   "scripts": {
     "start": "node script.js",
@@ -11,5 +10,15 @@
   "license": "ISC",
   "dependencies": {
     "express": "^4.18.1"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sheinken88/shoe_Store-Heinken.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sheinken88/shoe_Store-Heinken/issues"
+  },
+  "homepage": "https://github.com/sheinken88/shoe_Store-Heinken#readme",
+  "description": ""
 }
